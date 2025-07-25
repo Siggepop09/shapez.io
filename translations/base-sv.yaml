@@ -1252,31 +1252,31 @@ tips:
     - Press F4 twice to show the tile of your mouse and camera.
     - You can click a pinned shape on the left side to unpin it.
 puzzleMenu:
-    play: Play
-    edit: Edit
-    title: Puzzle Mode
-    createPuzzle: Create Puzzle
-    loadPuzzle: Load
-    reviewPuzzle: Review & Publish
-    validatingPuzzle: Validating Puzzle
-    submittingPuzzle: Submitting Puzzle
-    noPuzzles: There are currently no puzzles in this section.
+    play: Spela
+    edit: Ändra
+    title: Pussel läge
+    createPuzzle: Skapa pussel
+    loadPuzzle: Ladda
+    reviewPuzzle: Bedöm & Publisera
+    validatingPuzzle: Validera pussel
+    submittingPuzzle: Skicka in pussel
+    noPuzzles: Det finns just nu inga pussel id den här sectionen.
     categories:
-        levels: Levels
-        new: New
+        levels: Nivå
+        new: Nytt
         top-rated: Top Rated
-        mine: My Puzzles
-        easy: Easy
-        hard: Hard
-        completed: Completed
+        mine: Mina
+        easy: Lätt
+        hard: Svårt
+        completed: Färdigt
         medium: Medium
-        official: Official
-        trending: Trending today
-        trending-weekly: Trending weekly
-        categories: Categories
-        difficulties: By Difficulty
-        account: My Puzzles
-        search: Search
+        official: Officiellt
+        trending: Trender idag
+        trending-weekly: Trender denna veckan
+        categories: Kategorier
+        difficulties: Efter svårighetsgrad
+        account: Mina pussel
+        search: Sök
     validation:
         title: Invalid Puzzle
         noProducers: Please place a Constant Producer!
@@ -1290,26 +1290,26 @@ puzzleMenu:
         autoComplete: Your puzzle autocompletes itself! Please make sure your constant
             producers are not directly delivering to your goal acceptors.
     difficulties:
-        easy: Easy
+        easy: Lätt
         medium: Medium
-        hard: Hard
+        hard: Svår
         unknown: Unrated
-    dlcHint: Purchased the DLC already? Make sure it is activated by right clicking
-        shapez.io in your library, selecting Properties > DLCs.
+    dlcHint: Redan köpt DLC:t? Se till att det är aktiverat genom att höger klicka 
+             på shapez.io i ditt biblotek, välj Egenskaper > DLCs.
     search:
-        action: Search
+        action: Sök
         placeholder: Enter a puzzle or author name
         includeCompleted: Include Completed
         difficulties:
-            any: Any Difficulty
-            easy: Easy
+            any: Svårightesgrad
+            easy: Lätt
             medium: Medium
-            hard: Hard
+            hard: Svårt
         durations:
-            any: Any Duration
-            short: Short (< 2 min)
+            any: Alla längder
+            short: Kort (< 2 min)
             medium: Normal
-            long: Long (> 10 min)
+            long: Lång (> 10 min)
 backendErrors:
     ratelimit: You are performing your actions too frequent. Please wait a bit.
     invalid-api-key: Failed to communicate with the backend, please try to
